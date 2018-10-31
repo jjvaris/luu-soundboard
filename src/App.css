@@ -1,12 +1,8 @@
 header {
   height: 10%;
-  position: relative;
-}
-
-header h1 {
-  position: relative;
-  line-height: 0;
-  top: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 button {
@@ -27,4 +23,10 @@ button {
 
 button:hover {
   opacity: 1;
+}
+
+@media only screen and (max-width: 465px) {
+  button {
+    font-size: 17px;
+  }
 }
