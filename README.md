@@ -1,6 +1,6 @@
 ## Best soundboard ever?
 
-For personal use
+Enjoy it on [https://luukku-soundboard.herokuapp.com/](https://luukku-soundboard.herokuapp.com/)
 
 ---
 
