@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <React.Fragment>
         <header>
-          <h1>LUUKKU SOUND BOARD</h1>
+          <h1>LUUKKU SOUNDBOARD</h1>
         </header>
         <SoundButton sound="1.mp3" bgImg="2.png" />
         <SoundButton sound="1.mp3" bgColor="#001f3f">
