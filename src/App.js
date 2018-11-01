@@ -8,42 +8,40 @@ class App extends Component {
         <header>
           <h1>LUUKKU SOUNDBOARD</h1>
         </header>
-        <SoundButton sound="1.mp3" bgImg="2.png" />
+        <SoundButton sound="1.mp3" bgImg="2.png">MITÄ HELV...</SoundButton>
         <SoundButton sound="2.mp3" bgColor="#001f3f">
           HUOMEN VAI TÄNÄÄ
         </SoundButton>
         <SoundButton sound="3.mp3" bgColor="#2ECC40">
           VOI PERRRHANA
         </SoundButton>
-        <SoundButton sound="4.mp3" bgColor="#85144b">KALJAA</SoundButton>
-        <SoundButton sound="1.mp3" bgColor="#FFDC00">
-          KYLLÄ
+        <SoundButton sound="4.mp3" bgColor="#FFDC00">KALJAA</SoundButton>
+        <SoundButton sound="5.mp3" bgImg="5.png">
+          ASIA KUNNOSSA
         </SoundButton>
-        <SoundButton sound="1.mp3" bgColor="#F012BE">
-          SAATANA
+        <SoundButton sound="1.mp3" bgImg="2.png">MITÄ HELV...</SoundButton>
+        <SoundButton sound="2.mp3" bgColor="#001f3f">
+          HUOMEN VAI TÄNÄÄ
         </SoundButton>
-        <SoundButton sound="1.mp3" bgImg="1.png" />
-        <SoundButton sound="1.mp3" bgColor="#39CCCC">
-          EI VOI OLLA TOTTA
+        <SoundButton sound="3.mp3" bgColor="#2ECC40">
+          VOI PERRRHANA
         </SoundButton>
-        <SoundButton sound="1.mp3" bgImg="1.png" />
-        <SoundButton sound="1.mp3" bgColor="#3D9970">
-          PERKELE
+        <SoundButton sound="4.mp3" bgColor="#FFDC00">KALJAA</SoundButton>
+        <SoundButton sound="5.mp3" bgImg="5.png">
+          ASIA KUNNOSSA
         </SoundButton>
-        <SoundButton sound="1.mp3" bgColor="#FF4136">
-          ON SE SANONKO
+        <SoundButton sound="1.mp3" bgImg="2.png">MITÄ HELV...</SoundButton>
+        <SoundButton sound="2.mp3" bgColor="#001f3f">
+          HUOMEN VAI TÄNÄÄ
         </SoundButton>
-        <SoundButton sound="1.mp3" bgImg="1.png" />
-        <SoundButton sound="1.mp3" bgColor="#FF851B">
-          VOI JUMALAUTA
+        <SoundButton sound="3.mp3" bgColor="#2ECC40">
+          VOI PERRRHANA
         </SoundButton>
-        <SoundButton sound="1.mp3" bgColor="#B10DC9">
-          VOI...
+        <SoundButton sound="4.mp3" bgColor="#FFDC00">KALJAA</SoundButton>
+        <SoundButton sound="5.mp3" bgImg="5.png">
+          ASIA KUNNOSSA
         </SoundButton>
-        <SoundButton sound="1.mp3" bgImg="1.png" />
-        <SoundButton sound="1.mp3" bgColor="#85144b">
-          ELÄ PERKELE!
-        </SoundButton>
+        <SoundButton sound="1.mp3" bgImg="2.png">MITÄ HELV...</SoundButton>
       </React.Fragment>
     );
   }
