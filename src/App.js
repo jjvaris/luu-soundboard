@@ -9,13 +9,13 @@ class App extends Component {
           <h1>LUUKKU SOUNDBOARD</h1>
         </header>
         <SoundButton sound="1.mp3" bgImg="2.png" />
-        <SoundButton sound="1.mp3" bgColor="#001f3f">
+        <SoundButton sound="2.mp3" bgColor="#001f3f">
           HUOMEN VAI TÄNÄÄ
         </SoundButton>
-        <SoundButton sound="1.mp3" bgColor="#2ECC40">
-          CAMA
+        <SoundButton sound="3.mp3" bgColor="#2ECC40">
+          VOI PERRRHANA
         </SoundButton>
-        <SoundButton sound="1.mp3" bgImg="1.png" />
+        <SoundButton sound="4.mp3" bgColor="#85144b">KALJAA</SoundButton>
         <SoundButton sound="1.mp3" bgColor="#FFDC00">
           KYLLÄ
         </SoundButton>
