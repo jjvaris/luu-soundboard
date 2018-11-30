@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import './App.css';
+import React, { Component } from "react";
+import "./App.css";
 
 class App extends Component {
   render() {
@@ -8,40 +8,54 @@ class App extends Component {
         <header>
           <h1>LUUKKU SOUNDBOARD</h1>
         </header>
-        <SoundButton sound="1.mp3" bgImg="2.png">MITÄ HELV...</SoundButton>
+        <SoundButton sound="1.mp3" bgImg="2.png">
+          MITÄ HELV...
+        </SoundButton>
         <SoundButton sound="2.mp3" bgColor="#001f3f">
           HUOMEN VAI TÄNÄÄ
         </SoundButton>
         <SoundButton sound="3.mp3" bgColor="#2ECC40">
           VOI PERRRHANA
         </SoundButton>
-        <SoundButton sound="4.mp3" bgColor="#FFDC00">KALJAA</SoundButton>
+        <SoundButton sound="4.mp3" bgColor="#FFDC00">
+          KALJAA
+        </SoundButton>
         <SoundButton sound="5.mp3" bgImg="5.png">
           ASIA KUNNOSSA
         </SoundButton>
-        <SoundButton sound="1.mp3" bgImg="2.png">MITÄ HELV...</SoundButton>
+        <SoundButton sound="6.mp3" bgColor="#FF00FF">
+          JUMALISTE
+        </SoundButton>
+        <SoundButton sound="7.mp3" bgImg="7.jpg">
+          SONNI
+        </SoundButton>
+        <SoundButton sound="3.mp3" bgColor="#2ECC40">
+          VOI PERRRHANA
+        </SoundButton>
+        <SoundButton sound="4.mp3" bgColor="#FFDC00">
+          KALJAA
+        </SoundButton>
+        <SoundButton sound="5.mp3" bgImg="5.png">
+          ASIA KUNNOSSA
+        </SoundButton>
+        <SoundButton sound="1.mp3" bgImg="2.png">
+          MITÄ HELV...
+        </SoundButton>
         <SoundButton sound="2.mp3" bgColor="#001f3f">
           HUOMEN VAI TÄNÄÄ
         </SoundButton>
         <SoundButton sound="3.mp3" bgColor="#2ECC40">
           VOI PERRRHANA
         </SoundButton>
-        <SoundButton sound="4.mp3" bgColor="#FFDC00">KALJAA</SoundButton>
+        <SoundButton sound="7.mp3" bgImg="7.jpg">
+          SONNI
+        </SoundButton>
         <SoundButton sound="5.mp3" bgImg="5.png">
           ASIA KUNNOSSA
         </SoundButton>
-        <SoundButton sound="1.mp3" bgImg="2.png">MITÄ HELV...</SoundButton>
-        <SoundButton sound="2.mp3" bgColor="#001f3f">
-          HUOMEN VAI TÄNÄÄ
+        <SoundButton sound="6.mp3" bgColor="#FF00FF">
+          JUMALISTE
         </SoundButton>
-        <SoundButton sound="3.mp3" bgColor="#2ECC40">
-          VOI PERRRHANA
-        </SoundButton>
-        <SoundButton sound="4.mp3" bgColor="#FFDC00">KALJAA</SoundButton>
-        <SoundButton sound="5.mp3" bgImg="5.png">
-          ASIA KUNNOSSA
-        </SoundButton>
-        <SoundButton sound="1.mp3" bgImg="2.png">MITÄ HELV...</SoundButton>
       </React.Fragment>
     );
   }
