@@ -41,8 +41,8 @@ class App extends Component {
         <SoundButton sound="1.mp3" bgImg="2.png">
           MITÄ HELV...
         </SoundButton>
-        <SoundButton sound="2.mp3" bgColor="#001f3f">
-          HUOMEN VAI TÄNÄÄ
+        <SoundButton sound="8.mp3" bgColor="#ffcc5c">
+          RAI RAI
         </SoundButton>
         <SoundButton sound="3.mp3" bgColor="#2ECC40">
           VOI PERRRHANA
